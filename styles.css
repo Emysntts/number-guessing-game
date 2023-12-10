@@ -1,0 +1,23 @@
+
+  body {
+    background-color:rgb(116, 54, 116);
+    color: #eaeaea;
+    font-family: "Roboto", sans-serif;
+    margin: 200px;
+    border:200px;
+    padding: 0;
+    align-items: center;
+  }
+
+  .form {
+color: rgb(230, 225, 234);
+align-items: center;
+padding: 20px;
+border-right: 10px;
+  }
+
+  .text_end {
+padding: 50px;
+margin: 50px;
+font-size: 32px;
+  }
